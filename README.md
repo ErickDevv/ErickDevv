@@ -1,6 +1,6 @@
 <h1> Hi, I'm Erick Medel! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1> 
 
-<img align='right' src="https://erickmedel.dev/_astro/erickmedel.BmQPvJel.webp" width="230"> 
+<img align='right' src="https://erickmedel.dev/_astro/erickmedel.BmQPvJel.webp" width="100"> 
 
 <p><em>💻 System Analyst at <a href="https://www.inbursa.com/">Grupo Financiero Inbursa</a> </br>
 👉 My Website: <a href="https://erickmedel.dev/">erickmedel.dev</a>
