@@ -1,4 +1,9 @@
-<h1> Hi, I'm Erick Medel! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1> 
+<div align="center">
+    <h1>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmc1bHRhaHUzcWdsdWE0cHQ1aWxhaTRpNGExa201bXo1bHR2ZzBmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/> Hi, I'm Erick Medel!
+    </h1>
+</div>
+
 
 <img align='right' src="https://erickmedel.dev/_astro/erickmedel.BmQPvJel.webp" width="100"> 
 
@@ -9,6 +14,9 @@
 ![](https://komarev.com/ghpvc/?username=ErickDevv) [![GitHub Thaiane](https://img.shields.io/github/followers/erickdevv?label=follow&style=social)](https://github.com/ErickDevv)
 
 <h2> 💡 About me </h2>
+
+#### Software Engineer and passionate about discussing technology and developing open-source projects.
+
 
 ```javascript
 const Erick = {
