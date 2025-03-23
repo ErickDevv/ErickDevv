@@ -29,8 +29,5 @@ const Erick = {
 ---
 
 ## Check out my youtube channel! 📺
-I have a youtube channel where I share my knowledge about programming and technology. I would love it if you could check it out and subscribe! 😄
-
-[![Alt text](https://img.youtube.com/vi/-62bSW7oCSA/0.jpg)](https://www.youtube.com/watch?v=-62bSW7oCSA)
-
-<h3>Thanks for visiting! I'm always happy to connect and chat about anything tech-related. 👍</h3>
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
