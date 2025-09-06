@@ -7,7 +7,7 @@
 
 <img align='right' src="https://erickmedel.dev/_astro/erickmedel.BmQPvJel.webp" width="100"> 
 
-<p><em>💻 System Analyst at <a href="https://www.inbursa.com/">Grupo Financiero Inbursa</a> </br>
+<p><em>💻 Software Expert II at <a href="https://www.bbvatechnology.com/america/">BBVA Technology en América</a> </br>
 👉 My Website: <a href="https://erickmedel.dev/">erickmedel.dev</a>
 
 
