@@ -21,7 +21,7 @@
 ```javascript
 const Erick = {
     code: ["Spring Boot", "JavaScript", "TypeScript", "React", "Angular"],
-    tools: ["NGINX", "Docker", "Node.js", "Bun", "Linux", "Vite"],
+    tools: ["NGINX", "Docker", "Node.js", "Bun", "AWS", "Vite"],
     databases: ["PostgreSQL", "Oracle", "MongoDB"],
     hobbies: ["Coding", "Blogging", "Learning New Tech"]
 };
