@@ -4,14 +4,11 @@
     </h1>
 </div>
 
-
-<img align='right' src="https://erickmedel.dev/_astro/erickmedel.BmQPvJel.webp" width="100"> 
-
 <p><em>💻 Software Expert II at <a href="https://www.bbvatechnology.com/america/">BBVA Technology en América</a> </br>
 👉 My Website: <a href="https://erickmedel.dev/">erickmedel.dev</a>
 
 
-![](https://komarev.com/ghpvc/?username=ErickDevv) [![GitHub Thaiane](https://img.shields.io/github/followers/erickdevv?label=follow&style=social)](https://github.com/ErickDevv)
+![](https://komarev.com/ghpvc/?username=ErickDevv) [](https://github.com/ErickDevv)
 
 <h2> 💡 About me </h2>
 
